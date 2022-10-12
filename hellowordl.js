@@ -9,3 +9,6 @@ console.log("asli tbai by usman")
 
 
 console.log("Tabahi by AFnan")
+
+
+console.log("Tabahi by AFnan 2")
