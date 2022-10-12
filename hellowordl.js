@@ -6,3 +6,6 @@ console.log("Another Console log added")
 
 console.log("kuch bi tabahai")
 console.log("asli tbai by usman")
+
+
+console.log("Tabahi by AFnan")
